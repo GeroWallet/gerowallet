@@ -1,0 +1,12 @@
+<svg width="50" height="50" viewBox="0 0 50 50" fill="none" xmlns="http://www.w3.org/2000/svg">
+<circle cx="25" cy="25" r="25" fill="url(#paint0_radial)"/>
+<g style="mix-blend-mode:overlay">
+<path d="M34 32H28V28H25.32C24.18 30.42 21.72 32 19 32C15.14 32 12 28.86 12 25C12 21.14 15.14 18 19 18C21.72 18 24.17 19.58 25.32 22H36V28H34V32ZM30 30H32V26H34V24H23.94L23.71 23.33C23.01 21.34 21.11 20 19 20C16.24 20 14 22.24 14 25C14 27.76 16.24 30 19 30C21.11 30 23.01 28.66 23.71 26.67L23.94 26H30V30ZM19 28C17.35 28 16 26.65 16 25C16 23.35 17.35 22 19 22C20.65 22 22 23.35 22 25C22 26.65 20.65 28 19 28ZM19 24C18.45 24 18 24.45 18 25C18 25.55 18.45 26 19 26C19.55 26 20 25.55 20 25C20 24.45 19.55 24 19 24Z" fill="white"/>
+</g>
+<defs>
+<radialGradient id="paint0_radial" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(7.5) rotate(53.231) scale(56.8001)">
+<stop stop-color="#098BD8" stop-opacity="0.9"/>
+<stop offset="1" stop-color="#00E094" stop-opacity="0"/>
+</radialGradient>
+</defs>
+</svg>
