@@ -1,1 +1,1 @@
-# gerowallethttps://github.com/costas-gero/gerowallet
+# gerowallet
